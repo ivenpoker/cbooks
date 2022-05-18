@@ -1,0 +1,99 @@
+# NB:
+#   - Books "name" must be unique.
+#   - Chapters "name" must be unique
+#   - Notes "name" must be unique
+#   - All "id"s found here (at book, chapter and note level) will NOT
+#     be used by application, it's just there for easy identification
+
+book:
+  name: C Programming A Modern Approah, Second Edition.
+  imageUrl: https://images-na.ssl-images-amazon.com/images/I/41yCucMGzWL.jpg
+  summary:
+    primary:
+      type: markdown
+      value: >-
+        A clear, complete, and engaging presentation of the C programming language - now with
+        coverage of both C89 and C99.
+    secondary:
+      type: markdown
+      value: >-
+  year: 2008
+  numberOfPages: 830
+  edition: 2
+  objectives:
+    - text: Be clear, readable, and possibly even entertaining.
+      tags: []
+    - text: Be accessible to a broad range of readers.
+      tags: []
+    - text: Be authoritative without being pedantic.
+  audience:
+    info: >-
+      Some info here
+    types:
+      - name: Engineers
+      - name: System Engineers
+      - name: Technology Enthusiasts
+      - name: Operating Systems Engineers
+  isbn:
+    ISBN-13: 978-0393979503
+    ISBN-10: 0393979504
+  size: 106.8
+  keywords:
+    - name: Programing
+    - name: GUI
+    - name: Algorithms
+    - name: Datastructures
+  languages:
+    - name: English
+  authors:
+    - name: K. N. King
+      biography: >-
+        K. N. King is the author of C Programming: A Modern Approach and Java Programming: From the Beginning. 
+        He received the Ph.D. in computer science from the University of California at Berkeley in 1980. 
+        He was a faculty member at Georgia Tech from 1980 to 1987.
+  formats:
+    - name: PDF
+      description: Book In PDF format.
+  tags:
+    - name: Programming
+      description: Programming based.
+    - name: C
+      description: Affiliated with C programming.
+    - name: C++
+      description: Affiliated with C++ programming.
+    - name: System
+      description: Affiliated with System programming.
+  features:
+    - text: >- 
+        Complete coverage of both the C89 standard and the C99 standard, with all C99 changes clearly marked.
+        The biggest difference between the first and second editions is coverage of the C99 standard.
+      tags: []
+    - text: Includes a quick reference toa ll C89 and C99 library functions.
+      tags: []
+    - text: Expanded coverage of GCC.
+      tags: []
+    - text: New coverage of abstract data types.
+      tags: []
+    - text: Expanded coverage of international features.
+      tags: []
+    - text: Updated to reflect today's CPUs and operation systems.
+      tags: []
+    - text: Nearly 500 exercises and programming projects - 60% more than in the first edition.
+      tags: []
+    - text: >-
+        Source code and solutions to selected exercises and programing projects for students, available
+        at the author's website (knking.com).
+      tags: []
+    - text: >-
+        Password-protected instructor site (also at knking.com) containing solutions to the remaining
+        exercises and projects, plus PowerPoint presentations for most chapters.
+      tags: []
+  categories:
+    - Programming
+    - Software
+    - Technology
+    - Engineering
+    - Computer Science
+    - System
+    - C++
+
