@@ -26,6 +26,26 @@ book:
     - text: Be accessible to a broad range of readers.
       tags: []
     - text: Be authoritative without being pedantic.
+      tags: []
+    - text: Be organized for easy learning.
+      tags: []
+    - text: Motivate language features.
+      tags: []
+    - text: Emphasize style.
+      tags: []
+    - text: Avoid dependence on a particular machine, compiler, or operating system.
+      tags: []
+    - text: Use illustrations to clarify key concepts.
+      tags: []
+    - text: Put C in perspective.
+      tags: []
+    - text: Emphasize standard versions of C.
+      tags: []
+    - text: Debunk myths.
+      tags: []
+    - text: Postpone C's low-level features.
+      tags: []
+    - text: De-emphasize "manual optimization".
   audience:
     info: >-
       Some info here
