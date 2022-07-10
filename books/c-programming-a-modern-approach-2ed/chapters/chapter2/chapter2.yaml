@@ -1,0 +1,30 @@
+chapter:
+  id: 9a272cd8-cf4c-41a5-ad6d-308dc5ce9ebc
+  name: C Fundamentals
+  number: 2
+  summary: >-
+    Introduction to several basic concepts, including preprocessing directives, functions, variables, and statements, 
+    that are need in order to write even the simplest programs.
+  objectives:
+    - info: >-
+        Present a small C program and describes how to compile and link it.
+    - info: >- 
+        Discussion on how to generalize a program.
+    - info: >- 
+        Addition of explanatory remarks, known as comments.
+    - info: >-
+        Introduction of variables, which store dat that may change during the execution of a program.
+    - info: >-
+        Demonstration of the usage of the `scanf` function to read data into variables.
+    - info: >-
+        Explanation of C's rules for creating names (identifiers).
+    - info: >-
+        Rules for laying out a program.
+  keywords:
+    - name: variable
+    - name: directive
+    - name: preprocessor
+    - name: comment
+    - name: function
+    - name: statement
+    - name: constant

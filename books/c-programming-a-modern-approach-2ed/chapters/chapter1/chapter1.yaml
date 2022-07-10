@@ -1,0 +1,22 @@
+chapter:
+  id: 4873c763-f374-4cd0-820c-1437f8c32d10
+  name: Introducing C
+  number: 1
+  summary: >-
+    Introducing C. Brief exposure on its origins, standardization. Enumeration of some C-based languages. 
+    Discussion of the strengths and weaknesses of C and how to Effectively use C.
+  objectives:
+    - info: >-
+        Brief introduction to the C programming language.
+    - info: >-
+        Discussion on the origins and various standardization of C.
+    - info: >-
+        Enumeration of some C-based languages.
+    - info: >-
+        Discuss the strengths and weaknesses of C.
+    - info: >-
+        How to effectively use C.
+  keywords:
+    - name: C
+    - name: Programming
+
