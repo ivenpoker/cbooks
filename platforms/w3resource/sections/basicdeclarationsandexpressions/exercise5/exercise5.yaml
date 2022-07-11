@@ -1,0 +1,14 @@
+exercise:
+  id: 1233d8f7-8843-48be-9285-989d644699d6
+  number: 5
+  author:
+    name: ivenpoker
+    imageUrl: https://github.com/ivenpoker.png
+  title: >-
+    Write a C program to compute the perimeter and area of a rectangle with a height of 7 inches. and width of 5 inches.
+  subtitle: >-
+  mdFile: ./exercise5.md
+  sourceFiles:
+    path: ./solution
+    isDir: true
+  takenOn: 2022-07-11T23:14:37+01:00
