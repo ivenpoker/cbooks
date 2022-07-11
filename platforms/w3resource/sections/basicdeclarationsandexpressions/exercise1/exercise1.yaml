@@ -1,0 +1,14 @@
+exercise:
+  id: 1bc51134-3584-48b7-a43c-4aec11ac489a
+  number: 1
+  author:
+    name: ivenpoker
+    imageUrl: https://github.com/ivenpoker.png
+  title: >-
+    Write a C program to print your name, date of birth. and mobile number.
+  subtitle: >-
+  mdFile: ./exercise1.md
+  sourceFiles:
+    path: ./solution
+    isDir: true
+  takenOn: 2022-07-11T23:08:32+01:00
