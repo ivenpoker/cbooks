@@ -1,0 +1,14 @@
+exercise:
+  id: 7bb0d46c-f224-4270-9669-e26abb808e37
+  number: 6
+  author:
+    name: ivenpoker
+    imageUrl: https://github.com/ivenpoker.png
+  title: >-
+    Write a C program to compute the perimeter and area of a circle with a given radius.
+  subtitle: >-
+  mdFile: ./exercise6.md
+  sourceFiles:
+    path: ./solution
+    isDir: true
+  takenOn: 2022-07-11T23:17:39+01:00
