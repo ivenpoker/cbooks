@@ -1,0 +1,14 @@
+exercise:
+  id: d2b55367-f585-4ec5-9f2f-399f35923a4e
+  number: 2
+  author:
+    name: ivenpoker
+    imageUrl: https://github.com/ivenpoker.png
+  title: >-
+    Write a C program to get the C version you are using.
+  subtitle: >-
+  mdFile: ./exercise2.md
+  sourceFiles:
+    path: ./solution
+    isDir: true
+  takenOn: 2022-07-11T23:10:39+01:00
