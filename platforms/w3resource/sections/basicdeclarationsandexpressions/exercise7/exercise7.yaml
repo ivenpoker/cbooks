@@ -1,0 +1,15 @@
+exercise:
+  id: 219d1c5f-86e0-4fca-a428-6e7dfac76a33
+  number: 7
+  author:
+    name: ivenpoker
+    imageUrl: https://github.com/ivenpoker.png
+  title: >-
+    Write a C program to display following variables.
+    a + c, x + c,dx + x, ((int) dx) + ax, a + x, s + b, ax + b, s + c, ax + c, ax + ux
+  subtitle: >-
+  mdFile: ./exercise7.md
+  sourceFiles:
+    path: ./solution
+    isDir: true
+  takenOn: 2022-07-11T23:45:06+01:00
