@@ -1,0 +1,104 @@
+platform:
+  id: 21184f34-a317-4806-ab85-2fc22d449683
+  name: w3resource
+  summary:
+    primary:
+      type: text
+      value: >
+        Building C skills by learning with w3resource platform. C is a general-purpose, imperative computer programming 
+        language, supporting structured programming, lexical variable scope and recursion, while a static type system 
+        prevents many unintended operations. C was originally developed by Dennis Ritchie between 1969 and 1973 at Bell 
+        Labs, and used to re-implement the Unix operating system. It has since become one of the most widely used 
+        programming languages of all time, with C compilers from various vendors available for the majority of existing 
+        computer architectures and operating systems.
+  imageUrl: https://images.app.goo.gl/CcVVXpJWwcPXDuEU7
+  sections:
+    - id: 9a8107bf-fa28-4b3f-b50a-d2ec0637bf85
+      name: Basic Declarations and Expressions
+      folderName: basicdeclarationsandexpressions
+      description: 142 exercises with solutions
+
+    - id: 108dffbf-d773-4564-a319-96fd06c27161
+      name: Basic Algorithm
+      folderName: basicalgorithm
+      description: 75 exercises with solution
+
+    - id: 19a7b974-2be6-41ba-82ad-af6e25de07b4
+      name: Variable Type
+      folderName: variabletype
+      description: 18 exercises with solution
+
+    - id: 48471191-0d19-43c6-a637-1842bffe12de
+      name: Input, Output
+      folderName: inputoutput
+      description: 10 exercises with solution
+
+    - id: 15fa01bf-2bc9-4d0f-aa85-88993cffd14a
+      name: Conditional Statement
+      folderName: conditionalstatement
+      description: 26 exercises with solution
+
+    - id: 50243199-2d91-4c92-87d9-655c70210454
+      name: For Loop
+      folderName: forloop
+      description: 59 exercises with solution
+
+    - id: 07a30278-124b-491d-8b6a-468c0acbf18c
+      name: Array
+      folderName: array
+      description: 106 exercises with solution
+
+    - id: a455535d-0bed-4164-83b8-4d00600d66a0
+      name: Pointer
+      folderName: pointer
+      description: 22 exercises with solution
+
+    - id: 6a40c6bd-1966-4380-b4f0-94ec9489b3f1
+      name: Linked List
+      folderName: linkedlist
+      description: 30 exercises with solution
+
+    - id: faa00378-64b4-4671-b7be-487a516a0624
+      name: Numbers
+      folderName: numbers
+      description: 38 exercises with solution
+
+    - id: 7068a8b2-d036-4a7d-bed0-7aa7df0ac31d
+      name: String
+      folderName: string
+      description: 34 exercises with solution
+
+    - id: 9a9310ee-6e74-40e3-bb63-5b39bb1b3ed1
+      name: Date Time
+      folderName: datetime
+      description: 10 exercises with solution
+
+    - id: 066086c0-36c6-4334-b5d5-1fad21f37cdb
+      name: Math
+      folderName: math
+      description: 28 exercises with solution
+
+    - id: 72028c82-c494-4e16-833a-f3f5a8a709ed
+      name: Function
+      folderName: function
+      description: 12 exercises with solution
+
+    - id: d89ba990-e825-47f8-abf2-9cd8e6e08506
+      name: Recursion
+      folderName: recursion
+      description: 21 exercises with solution
+
+    - id: 803430a6-a4f7-4949-b13e-2c61bdcc6c11
+      name: File Handling
+      folderName: filehandling
+      description: 15 exercises with solution
+
+    - id: 8aac06e8-7e41-4e9d-b3a6-a7d1a7eae3a2
+      name: Search And Sorting
+      folderName: searchandsorting
+      description: 31 exercises with solution
+
+    - id: ea8da43d-0873-4ed9-b539-038f9de787d2
+      name: Practice
+      folderName: practice
+      description: 28 exercises with solution
