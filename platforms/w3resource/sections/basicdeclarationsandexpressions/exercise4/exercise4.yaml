@@ -1,0 +1,14 @@
+exercise:
+  id: 468d6294-fe69-44c3-beb1-619cf6429ff8
+  number: 4
+  author:
+    name: ivenpoker
+    imageUrl: https://github.com/ivenpoker.png
+  title: >-
+    Write a C program to print the following characters in a reverse way.
+  subtitle: >-
+  mdFile: ./exercise4.md
+  sourceFiles:
+    path: ./solution
+    isDir: true
+  takenOn: 2022-07-11T23:13:14+01:00
