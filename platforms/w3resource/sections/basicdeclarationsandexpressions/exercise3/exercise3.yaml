@@ -1,0 +1,15 @@
+exercise:
+  id: 5fd3e3fe-dc71-4324-898c-09cefbf62b5e
+  number: 3
+  author:
+    name: ivenpoker
+    imageUrl: https://github.com/ivenpoker.png
+  title: >-
+    Write a C program to print a block F using hash (#), where the F has a height of six characters and width of five
+    and four characters. And also to print a big 'C'.
+  subtitle: >-
+  mdFile: ./exercise3.md
+  sourceFiles:
+    path: ./solution
+    isDir: true
+  takenOn: 2022-07-11T23:11:42+01:00
