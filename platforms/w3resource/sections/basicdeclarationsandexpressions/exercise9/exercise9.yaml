@@ -1,0 +1,14 @@
+exercise:
+  id: fc060f2e-d6b5-4c50-a0d5-a4464fdfd80d
+  number: 9
+  author:
+    name: ivenpoker
+    imageUrl: https://github.com/ivenpoker.png
+  title: >-
+    Write a C program that accepts two integers from the user and calculate the sum of the two integers.
+  subtitle: >-
+  mdFile: ./exercise9.md
+  sourceFiles:
+    path: ./solution
+    isDir: true
+  takenOn: 2022-07-12T15:31:25+01:00
