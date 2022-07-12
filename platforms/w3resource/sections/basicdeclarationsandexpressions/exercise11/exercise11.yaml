@@ -1,0 +1,15 @@
+exercise:
+  id: fb1cc376-202c-4845-9136-b827a796f5b2
+  number: 11
+  author:
+    name: ivenpoker
+    imageUrl: https://github.com/ivenpoker.png
+  title: >-
+    Write a C program that accepts two item’s weight (floating points' values ) and number of purchase (floating points'
+    values) and calculate the average value of the items.
+  subtitle: >-
+  mdFile: ./exercise11.md
+  sourceFiles:
+    path: ./solution
+    isDir: true
+  takenOn: 2022-07-12T16:20:07+01:00
