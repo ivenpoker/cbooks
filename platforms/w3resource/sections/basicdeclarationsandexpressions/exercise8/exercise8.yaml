@@ -1,0 +1,14 @@
+exercise:
+  id: ab1bc192-ce56-451a-afb8-cefe88958a1e
+  number: 8
+  author:
+    name: ivenpoker
+    imageUrl: https://github.com/ivenpoker.png
+  title: >-
+    Write a C program to convert specified days into years, weeks and days.
+  subtitle: >-
+  mdFile: ./exercise8.md
+  sourceFiles:
+    path: ./solution
+    isDir: true
+  takenOn: 2022-07-12T15:29:44+01:00
