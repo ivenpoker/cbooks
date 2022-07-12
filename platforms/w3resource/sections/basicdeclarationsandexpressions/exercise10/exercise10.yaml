@@ -1,0 +1,14 @@
+exercise:
+  id: 924cdfc6-6009-4e4e-b919-4770135d9362
+  number: 10
+  author:
+    name: ivenpoker
+    imageUrl: https://github.com/ivenpoker.png
+  title: >-
+    Write a C program that accepts two integers from the user and calculate the product of the two integers.
+  subtitle: >-
+  mdFile: ./exercise10.md
+  sourceFiles:
+    path: ./solution
+    isDir: true
+  takenOn: 2022-07-12T15:32:50+01:00
