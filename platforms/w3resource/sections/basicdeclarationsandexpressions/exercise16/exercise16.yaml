@@ -1,0 +1,14 @@
+exercise:
+  id: e4fb42b4-4833-4e49-b105-ed101667cfc4
+  number: 16
+  author:
+    name: ivenpoker
+    imageUrl: https://github.com/ivenpoker.png
+  title: >-
+    Write a C program to read an amount (integer value) and break the amount into smallest possible number of bank notes.
+  subtitle: >-
+  mdFile: ./exercise16.md
+  sourceFiles:
+    path: ./solution
+    isDir: true
+  takenOn: 2022-07-18T11:25:03+01:00
