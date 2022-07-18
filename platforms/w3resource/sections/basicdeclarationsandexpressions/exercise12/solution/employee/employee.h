@@ -2,8 +2,8 @@
 // Created by ivenpoker on 7/12/22.
 //
 
-#ifndef W3RESOURCE_EXERCISE_EMPLOYEE_H
-#define W3RESOURCE_EXERCISE_EMPLOYEE_H
+#ifndef PLATFORM_W3RESOURCE_BASIC_DECLARATIONS_AND_EXPRESSIONS_EXERCISE_12_EMPLOYEE_H
+#define PLATFORM_W3RESOURCE_BASIC_DECLARATIONS_AND_EXPRESSIONS_EXERCISE_12_EMPLOYEE_H
 
 typedef char *string_t;
 typedef const char *string_ct;
@@ -34,4 +34,4 @@ void EM_displayEmployee(Employee_pt employee);
  */
 void EM_freeEmployee(Employee_pt employee);
 
-#endif //W3RESOURCE_EXERCISE_EMPLOYEE_H
+#endif //PLATFORM_W3RESOURCE_BASIC_DECLARATIONS_AND_EXPRESSIONS_EXERCISE_12_EMPLOYEE_H
