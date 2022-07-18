@@ -1,0 +1,14 @@
+exercise:
+  id: e35b1191-15f6-424e-99b2-280d4e7cdffd
+  number: 15
+  author:
+    name: ivenpoker
+    imageUrl: https://github.com/ivenpoker.png
+  title: >-
+    Write a C program to calculate the distance between the two points.
+  subtitle: >-
+  mdFile: ./exercise15.md
+  sourceFiles:
+    path: ./solution
+    isDir: true
+  takenOn: 2022-07-18T10:26:26+01:00
