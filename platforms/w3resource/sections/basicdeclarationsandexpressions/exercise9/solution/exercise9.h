@@ -2,8 +2,8 @@
 // Created by ivenpoker on 7/12/22.
 //
 
-#ifndef W3RESOURCE_EXERCISE_EXERCISE9_H
-#define W3RESOURCE_EXERCISE_EXERCISE9_H
+#ifndef PLATFORM_W3RESOURCE_BASIC_DECLARATIONS_AND_EXPRESSIONS_EXERCISE_9_H
+#define PLATFORM_W3RESOURCE_BASIC_DECLARATIONS_AND_EXPRESSIONS_EXERCISE_9_H
 
 typedef char * string_t;
 typedef string_t * string_pt;
@@ -24,4 +24,4 @@ int retrieveUserInput(string_ct message);
  */
 int sumOf(int val1, int val2);
 
-#endif //W3RESOURCE_EXERCISE_EXERCISE9_H
+#endif //PLATFORM_W3RESOURCE_BASIC_DECLARATIONS_AND_EXPRESSIONS_EXERCISE_9_H
