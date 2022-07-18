@@ -1,0 +1,14 @@
+exercise:
+  id: b3ff2f3a-727b-4833-bcaa-b1a44ff1050d
+  number: 17
+  author:
+    name: ivenpoker
+    imageUrl: https://github.com/ivenpoker.png
+  title: >-
+    Write a C program to convert a given integer (in seconds) to hours, minutes and seconds.
+  subtitle: >-
+  mdFile: ./exercise17.md
+  sourceFiles:
+    path: ./solution
+    isDir: true
+  takenOn: 2022-07-18T20:47:07+01:00
