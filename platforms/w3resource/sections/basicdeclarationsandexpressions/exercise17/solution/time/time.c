@@ -56,6 +56,9 @@ void TM_displayTime(Time_pt timePtr) {
     displayLine(false, '|',' ', timeFragmentStr, 2, '|', true, maxLen);
 
     displayLine(false, '+', '-', "", 1, '+', true, maxLen);
+
+    // release allocated memory
+    free(timeFragmentStr);
 }
 
 int tenPercentOf(size_t number) {

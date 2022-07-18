@@ -12,5 +12,7 @@ int main(int argc, string_t *argv) {
 
     TM_displayTime(newTime);
 
+    TM_freeTime(newTime);
+
     exit(EXIT_SUCCESS);
 }
