@@ -1,0 +1,14 @@
+exercise:
+  id: cba0ad26-13d5-4df5-8688-c76e045d4fdb
+  number: 13
+  author:
+    name: ivenpoker
+    imageUrl: https://github.com/ivenpoker.png
+  title: >-
+    Write a C program that accepts three integers and find the maximum of three.
+  subtitle: >-
+  mdFile: ./exercise13.md
+  sourceFiles:
+    path: ./solution
+    isDir: true
+  takenOn: 2022-07-18T10:10:49+01:00
