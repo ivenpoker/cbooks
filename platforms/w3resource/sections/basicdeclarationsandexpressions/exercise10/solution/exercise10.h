@@ -2,8 +2,8 @@
 // Created by ivenpoker on 7/12/22.
 //
 
-#ifndef W3RESOURCE_EXERCISE_EXERCISE10_H
-#define W3RESOURCE_EXERCISE_EXERCISE10_H
+#ifndef PLATFORM_W3RESOURCE_BASIC_DECLARATIONS_AND_EXPRESSIONS_EXERCISE_10_H
+#define PLATFORM_W3RESOURCE_BASIC_DECLARATIONS_AND_EXPRESSIONS_EXERCISE_10_H
 
 typedef char * string_t;
 typedef const char * string_ct;
@@ -24,4 +24,4 @@ int retrieveIntInput(string_ct message);
  */
 int productOf(int val1, int val2);
 
-#endif //W3RESOURCE_EXERCISE_EXERCISE10_H
+#endif //PLATFORM_W3RESOURCE_BASIC_DECLARATIONS_AND_EXPRESSIONS_EXERCISE_10_H
