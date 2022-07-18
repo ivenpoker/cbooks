@@ -1,0 +1,15 @@
+exercise:
+  id: 38686f67-6cee-4da4-b771-8173d3464d09
+  number: 14
+  author:
+    name: ivenpoker
+    imageUrl: https://github.com/ivenpoker.png
+  title: >-
+    Write a C program to calculate a bike’s average consumption from the given total distance (integer value) traveled
+    (in km) and spent fuel (in liters, float number – 2 decimal point).
+  subtitle: >-
+  mdFile: ./exercise14.md
+  sourceFiles:
+    path: ./solution
+    isDir: true
+  takenOn: 2022-07-18T10:22:20+01:00
