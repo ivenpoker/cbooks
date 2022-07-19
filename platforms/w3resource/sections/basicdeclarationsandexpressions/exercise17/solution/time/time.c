@@ -31,6 +31,7 @@ void TM_displayTime(Time_pt timePtr) {
     char *timeFragmentStr = (char *) malloc(sizeof (char) * MAX_DISPLAY_STR_LEN);
     if (isNull(timeFragmentStr)) {
         fprintf(stderr, GENERIC_DISPLAY_ERROR_MESSAGE);
+        return;
     }
     sprintf(timeFragmentStr, "%zu", timePtr->totalSeconds);
     size_t maxLen = MAX_DISPLAY_LINE_LEN + tenPercentOf(strlen(timeFragmentStr));
