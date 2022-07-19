@@ -1,0 +1,15 @@
+exercise:
+  id: 469641d5-0a9c-4c03-83f0-e88298f50bea
+  number: 18
+  author:
+    name: ivenpoker
+    imageUrl: https://github.com/ivenpoker.png
+  title: >-
+    Write a C program to convert a given integer (in days) to years, months and days, assumes that all months have 30 
+    days and all years have 365 days.
+  subtitle: >-
+  mdFile: ./exercise18.md
+  sourceFiles:
+    path: ./solution
+    isDir: true
+  takenOn: 2022-07-19T11:13:14+01:00
