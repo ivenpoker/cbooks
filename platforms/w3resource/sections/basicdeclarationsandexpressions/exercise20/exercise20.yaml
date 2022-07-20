@@ -1,0 +1,15 @@
+exercise:
+  id: 438d5308-3424-416a-b754-56c374825a7d
+  number: 20
+  author:
+    name: ivenpoker
+    imageUrl: https://github.com/ivenpoker.png
+  title: >-
+    Write a C program to print the roots of Bhaskara’s formula from the given three floating numbers. Display a message 
+    if it is not possible to find the roots.
+  subtitle: >-
+  mdFile: ./exercise20.md
+  sourceFiles:
+    path: ./solution
+    isDir: true
+  takenOn: 2022-07-20T21:31:31+01:00
