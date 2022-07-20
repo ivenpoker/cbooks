@@ -1,0 +1,15 @@
+exercise:
+  id: 868ad496-98fa-4bf5-9802-eedbce995607
+  number: 21
+  author:
+    name: ivenpoker
+    imageUrl: https://github.com/ivenpoker.png
+  title: >-
+    Write a C program that reads an integer and check the specified range where it belongs. Print an error message
+    if the number is negative and greater than 80. Specified Range: [0, 20], [21, 40], [41, 60], [61, 80]
+  subtitle: >-
+  mdFile: ./exercise21.md
+  sourceFiles:
+    path: ./solution
+    isDir: true
+  takenOn: 2122-07-21T21:31:31+01:00
