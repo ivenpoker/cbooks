@@ -1,0 +1,14 @@
+exercise:
+  id: 08cc6c54-7c4a-47dc-9f29-2a3feee43982
+  number: 22
+  author:
+    name: ivenpoker
+    imageUrl: https://github.com/ivenpoker.png
+  title: >-
+    Write a C program that read 5 numbers and sum of all odd values between them.
+  subtitle: >-
+  mdFile: ./exercise22.md
+  sourceFiles:
+    path: ./solution
+    isDir: true
+  takenOn: 2022-07-20T22:36:06+01:00
